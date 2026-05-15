@@ -1,58 +1,56 @@
-# Python Basics 🐍
+<div align="center">
 
-This repository contains my Python learning journey and beginner-level programming practice.
+# 🐍 Python Basics
 
-## Topics Covered
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="300"/>
+
+</div>
+
+## About Python
+
+Python is a powerful, beginner-friendly, and widely used programming language.  
+It is used in web development, cybersecurity, automation, artificial intelligence, data science, and software development.
+
+---
+
+# 📚 Topics I Will Cover
 
 - Variables
 - Data Types
-- Strings
 - Type Casting
 - User Input
+- Strings
 - Math Methods
 - Conditions
 - Loops
 - Functions
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP)
 - Practice Problems
+- Mini Projects
 
 ---
 
-## Folder Structure
-
-```text
-python-basics/
-│
-├── variables/
-├── strings/
-├── typecasting/
-├── user_input/
-├── math_methods/
-├── conditions/
-├── loops/
-├── functions/
-└── practice_problems/
-```
-
----
-
-## Technologies Used
+# 🛠 Technologies I Used
 
 - Python 3
 - VS Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-## Goal
+# 🎯 Goal of This Repository
 
-The goal of this repository is:
-- Learn Python basics
-- Practice programming
-- Build consistency
-- Upload projects on GitHub
+The goal of this repository is to document my Python learning journey, practice programming fundamentals, improve problem-solving skills, and build beginner-friendly Python projects consistently.
 
 ---
 
-## Author
+# 👩‍💻 Author
 
 Arifa Zaman
