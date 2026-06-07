@@ -53,4 +53,4 @@ The goal of this repository is to document my Python learning journey, practice 
 
 # 👩‍💻 Author
 
-Arifa Zaman
+Umme Arifa Zaman Nirjhor
